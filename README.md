@@ -3,13 +3,13 @@ Gloves For Deaf was created to translate hand signs into language that could be 
 
 # System Design 
 we will implement a device that can transcript the sign word on LCD:
-❑ Five flexible sensors must be put on all fingers respectively.
-❑ Flexible sensors fast response detect any motion of fingers.
+❑ Five flexible sensors must be put on all fingers respectively.  
+❑ Flexible sensors fast response detect any motion of fingers.   
 ❑ According to the posture of fingers, the relative meaning will 
-be printing on the LCD.
+be printing on the LCD.   
 ❑ The number of words must be transcript must not be less than 
-fifteen words.
-❑ Old word will be cleared if a new word is activated.
+fifteen words.    
+❑ Old word will be cleared if a new word is activated.   
 
 # Specifications –Flexible sensors 
 1. They are used to detect any motion of fingers, every finger must 
